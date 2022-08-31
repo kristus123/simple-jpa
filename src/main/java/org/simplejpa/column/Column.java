@@ -1,7 +1,6 @@
-package org.simplejpa.column.types;
+package org.simplejpa.column;
 
 import lombok.Getter;
-import org.simplejpa.column.names.ColumnName;
 
 import java.util.Objects;
 

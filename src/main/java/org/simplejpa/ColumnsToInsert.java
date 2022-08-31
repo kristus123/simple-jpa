@@ -1,6 +1,6 @@
 package org.simplejpa;
 
-import org.simplejpa.column.types.Column;
+import org.simplejpa.column.Column;
 
 import java.sql.PreparedStatement;
 import java.util.*;

@@ -3,7 +3,7 @@ package org.simplejpa;
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import lombok.SneakyThrows;
-import org.simplejpa.column.types.Column;
+import org.simplejpa.column.Column;
 
 import java.sql.ResultSet;
 import java.util.ArrayList;

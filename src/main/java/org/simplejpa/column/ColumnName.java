@@ -1,4 +1,4 @@
-package org.simplejpa.column.names;
+package org.simplejpa.column;
 
 import org.simplejpa.column.ColumnValueType;
 

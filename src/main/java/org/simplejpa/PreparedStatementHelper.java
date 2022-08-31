@@ -1,7 +1,7 @@
 package org.simplejpa;
 
 import lombok.SneakyThrows;
-import org.wfm.persistence.column.types.Column;
+import org.simplejpa.column.Column;
 
 import java.sql.Date;
 import java.sql.PreparedStatement;
